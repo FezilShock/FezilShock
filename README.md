@@ -3,7 +3,7 @@ BMSTU IU4 1st cource student
 
 mb future devops idk
 
-<img src="jpeg.jpg" alt="banner" style="height: 200px; width:1920px;"/>
+<img src="banner.jpg" alt="banner" style="height: 200px; width:1920px;"/>
 <!--
 **FezilShock/FezilShock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
