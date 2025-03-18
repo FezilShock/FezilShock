@@ -1,5 +1,9 @@
 ## Hi there 👋
+BMSTU IU4 1st cource student
 
+mb future devops idk
+
+![Banner](banner.png)
 <!--
 **FezilShock/FezilShock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
