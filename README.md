@@ -3,6 +3,7 @@ BMSTU IU4 1st cource student
 
 mb future devops idk
 
+<img src="banner.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 ![Banner](banner.jpg)
 <!--
 **FezilShock/FezilShock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
